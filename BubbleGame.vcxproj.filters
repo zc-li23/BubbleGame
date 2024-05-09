@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BubbleGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BubbleGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\blocks.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\boy.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\bubble.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\girl.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\Grass.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\START.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\help.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\title.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\return.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\return_menu.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\again.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\return_game.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\boom.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\map_sea_tile2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\stage_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\choose_title.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\boy_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\girl_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\skin_chooose.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\me_skin_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\me_skin_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\rival_skin_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\rival_skin_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\blocks_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\stage_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\stage_3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\blocks_3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\mode_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\mode_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\mode_choose.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\lose.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\menu.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\regame.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\win.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\end.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\wudi.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\health.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\addbubble.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\power.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\speed.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\stage_4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="resources\help_stage.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="resources\bgm_1.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="resources\bgm_2.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="resources\bgm_3.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="resources\boomsound.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="resources\touch.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
